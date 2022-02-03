@@ -1,3 +1,6 @@
+INSP NOTES FEB 2022: 
+This is qt v5.4.3, but we might be able to sync the upstream layer from https://github.com/meta-qt5/meta-qt5 which seems to support 5.10.1
+
 This layer depends on:
 
 URI: git://github.com/openembedded/oe-core.git
